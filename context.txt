@@ -1,0 +1,6 @@
+1. Class and Object with help of examples
+2. Class has attribute and it has function or methods
+3. Why python is called object oriented programming
+4. Advantage of oops:
+    > You can create your own datatype
+    
